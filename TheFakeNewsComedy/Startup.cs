@@ -22,6 +22,7 @@ namespace TheFakeNewsComedy
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddEntityFrameworkSqlite().AddDbContext<Repository.Context>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +45,12 @@ namespace TheFakeNewsComedy
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            using (var client = new Repository.Context())
+            {
+                client.Database.EnsureCreated();
+            }
         }
+
     }
 }

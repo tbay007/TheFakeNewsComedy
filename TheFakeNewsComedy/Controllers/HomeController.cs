@@ -12,12 +12,21 @@ namespace TheFakeNewsComedy.Controllers
     {
         public IActionResult Index()
         {
+            //using (Repository.CategoryRepository repo = new Repository.CategoryRepository())
+            //{
+            //    Repository.Category cat = new Repository.Category();
+            //    cat.Name = "Test1";
+
+            //    cat.Id = repo.SaveCategory(cat);
+
+            //    var model = repo.GetSavedCategory(cat.Id);
+            //}
             return View();
         }
 
         public IActionResult Articles()
         {
-            return View();    
+            return View();
         }
 
         public IActionResult About()
