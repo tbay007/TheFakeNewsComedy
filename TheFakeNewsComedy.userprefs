@@ -1,3 +1,15 @@
 ﻿<Properties StartupConfiguration="{79DAE41D-BEB3-4369-A707-1594AFE59DA6}|Default">
+  <MonoDevelop.Ide.ItemProperties.TheFakeNewsComedy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheFakeNewsComedy.git Status">
+    <Files>
+      <File FileName="TheFakeNewsComedy/Views/Shared/_Layout.cshtml" Line="9" Column="30" />
+      <File FileName="TheFakeNewsComedy.git Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

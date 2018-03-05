@@ -28530,11 +28530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/travis/Documents/VS Projects/TheFakeNewsComedy/TheFakeNewsComedy/TheFakeNewsComedy.csproj",
+      "projectUniqueName": "/Users/travis/Documents/VS Projects/TheFakeNewsComedy/tbay007/TheFakeNewsComedy.git/TheFakeNewsComedy/TheFakeNewsComedy.csproj",
       "projectName": "TheFakeNewsComedy",
-      "projectPath": "/Users/travis/Documents/VS Projects/TheFakeNewsComedy/TheFakeNewsComedy/TheFakeNewsComedy.csproj",
+      "projectPath": "/Users/travis/Documents/VS Projects/TheFakeNewsComedy/tbay007/TheFakeNewsComedy.git/TheFakeNewsComedy/TheFakeNewsComedy.csproj",
       "packagesPath": "/Users/travis/.nuget/packages/",
-      "outputPath": "/Users/travis/Documents/VS Projects/TheFakeNewsComedy/TheFakeNewsComedy/obj",
+      "outputPath": "/Users/travis/Documents/VS Projects/TheFakeNewsComedy/tbay007/TheFakeNewsComedy.git/TheFakeNewsComedy/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
