@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{79DAE41D-BEB3-4369-A707-1594AFE59DA6}|Default">
   <MonoDevelop.Ide.ItemProperties.TheFakeNewsComedy PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TheFakeNewsComedy.git Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheFakeNewsComedy/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="TheFakeNewsComedy/Views/Shared/_Layout.cshtml" Line="9" Column="30" />
-      <File FileName="TheFakeNewsComedy.git Status" />
+      <File FileName="TheFakeNewsComedy/Views/Shared/_Layout.cshtml" Line="36" Column="21" />
+      <File FileName="TheFakeNewsComedy/Controllers/HomeController.cs" Line="20" Column="31" />
+      <File FileName="TheFakeNewsComedy/Views/Home/EmptyHTMLFile.html" Line="1" Column="1" />
+      <File FileName="TheFakeNewsComedy/Views/Home/About.cshtml" Line="2" Column="5" />
+      <File FileName="TheFakeNewsComedy/Views/Home/Articles.cshtml" Line="5" Column="34" />
+      <File FileName="TheFakeNewsComedy/Views/Home/Article.cshtml" Line="1" Column="1" />
+      <File FileName="TheFakeNewsComedy/Views/Home/Index.cshtml" Line="18" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
